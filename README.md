@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil:🖤
 
-<!--
-**paulo2223/paulo2223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é paulo henrique
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+gomes.pereira.paulo@escola.pr.gov.br
+
+
+![](https://tenor.com/pt-BR/view/bored-anime-gon-hxh-lol-gif-17492672)
