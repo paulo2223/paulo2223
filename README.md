@@ -10,4 +10,10 @@ Meu nome é paulo henrique
 gomes.pereira.paulo@escola.pr.gov.br
 
 
-![](https://tenor.com/pt-BR/view/bored-anime-gon-hxh-lol-gif-17492672)
+
+![](https://github.com/user-attachments/assets/60570bc2-887a-44f3-95c3-a89703201f27)
+
+
+
+
+
